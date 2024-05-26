@@ -1,0 +1,15 @@
+INSERT INTO EMPLOYEE (name, salary, age, profile_image) VALUES ('John Doe', 50000, 30,'');
+INSERT INTO EMPLOYEE (name, salary, age, profile_image) VALUES ('Jane Smith', 60000, 25,'');
+INSERT INTO EMPLOYEE (name, salary, age, profile_image) VALUES ('Mike Johnson', 55000, 40,'');
+INSERT INTO EMPLOYEE (name, salary, age, profile_image) VALUES ('Chris Lee', 70000, 35,'');
+INSERT INTO EMPLOYEE (name, salary, age, profile_image) VALUES ('Patricia Brown', 80000, 45,'');
+INSERT INTO EMPLOYEE (name, salary, age, profile_image) VALUES ('Robert Black', 45000, 28,'');
+INSERT INTO EMPLOYEE (name, salary, age, profile_image) VALUES ('Laura White', 75000, 32,'');
+INSERT INTO EMPLOYEE (name, salary, age, profile_image) VALUES ('James Green', 65000, 41,'');
+INSERT INTO EMPLOYEE (name, salary, age, profile_image) VALUES ('Nancy Young', 85000, 37,'');
+INSERT INTO EMPLOYEE (name, salary, age, profile_image) VALUES ('Steve Walker', 90000, 50,'');
+INSERT INTO EMPLOYEE (name, salary, age, profile_image) VALUES ('Emma Harris', 72000, 26,'');
+INSERT INTO EMPLOYEE (name, salary, age, profile_image) VALUES ('Oliver Clark', 53000, 33,'');
+INSERT INTO EMPLOYEE (name, salary, age, profile_image) VALUES ('Sophia Lewis', 66000, 29,'');
+INSERT INTO EMPLOYEE (name, salary, age, profile_image) VALUES ('Liam Hall', 58000, 31,'');
+INSERT INTO EMPLOYEE (name, salary, age, profile_image) VALUES ('Isabella Allen', 81000, 39,'');
